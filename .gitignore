@@ -7,9 +7,6 @@
 # Crash logs
 crash.log
 
-# Sensitive files
-*.tfvars
-
 # OS
 .DS_Store
 Thumbs.db
